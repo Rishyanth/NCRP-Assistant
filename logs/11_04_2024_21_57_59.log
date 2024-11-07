@@ -1,0 +1,33 @@
+[2024-11-04 21:58:00,307] 23 root -INFO - Libraries Loaded
+[2024-11-04 21:58:00,328] 35 root -INFO - UI Loaded
+[2024-11-04 21:59:16,242] 23 root -INFO - Libraries Loaded
+[2024-11-04 21:59:16,274] 35 root -INFO - UI Loaded
+[2024-11-04 21:59:16,274] 38 root -INFO - Submit Button clicked
+[2024-11-04 21:59:18,027] 19 root -INFO - Gemini Model Initialized Successfully
+[2024-11-04 21:59:18,027] 32 root -INFO - QueryPipline Created Starting Prediction using Gemini API
+[2024-11-04 21:59:22,749] 34 root -INFO - Prediction using Gemini API completed outputing response
+[2024-11-04 21:59:22,750] 41 root -INFO - Loading Confirmation Box
+[2024-11-04 21:59:23,846] 23 root -INFO - Libraries Loaded
+[2024-11-04 21:59:23,872] 35 root -INFO - UI Loaded
+[2024-11-04 21:59:46,328] 23 root -INFO - Libraries Loaded
+[2024-11-04 21:59:46,343] 35 root -INFO - UI Loaded
+[2024-11-04 21:59:46,343] 38 root -INFO - Submit Button clicked
+[2024-11-04 21:59:47,933] 19 root -INFO - Gemini Model Initialized Successfully
+[2024-11-04 21:59:47,933] 32 root -INFO - QueryPipline Created Starting Prediction using Gemini API
+[2024-11-04 21:59:52,746] 34 root -INFO - Prediction using Gemini API completed outputing response
+[2024-11-04 21:59:52,746] 41 root -INFO - Loading Confirmation Box
+[2024-11-04 21:59:53,452] 23 root -INFO - Libraries Loaded
+[2024-11-04 21:59:53,466] 35 root -INFO - UI Loaded
+[2024-11-04 22:01:19,235] 23 root -INFO - Libraries Loaded
+[2024-11-04 22:01:19,249] 35 root -INFO - UI Loaded
+[2024-11-04 22:01:29,902] 23 root -INFO - Libraries Loaded
+[2024-11-04 22:01:29,915] 35 root -INFO - UI Loaded
+[2024-11-04 22:01:31,849] 23 root -INFO - Libraries Loaded
+[2024-11-04 22:01:31,858] 35 root -INFO - UI Loaded
+[2024-11-04 22:01:31,859] 38 root -INFO - Submit Button clicked
+[2024-11-04 22:01:33,515] 19 root -INFO - Gemini Model Initialized Successfully
+[2024-11-04 22:01:33,515] 32 root -INFO - QueryPipline Created Starting Prediction using Gemini API
+[2024-11-04 22:01:44,688] 34 root -INFO - Prediction using Gemini API completed outputing response
+[2024-11-04 22:01:44,688] 41 root -INFO - Loading Confirmation Box
+[2024-11-04 22:01:45,619] 23 root -INFO - Libraries Loaded
+[2024-11-04 22:01:45,624] 35 root -INFO - UI Loaded

@@ -1,0 +1,9 @@
+[2024-11-04 21:42:38,367] 8 root -INFO - Libraries Loaded
+[2024-11-04 21:42:38,377] 20 root -INFO - UI Loaded
+[2024-11-04 21:42:49,454] 8 root -INFO - Libraries Loaded
+[2024-11-04 21:42:49,462] 20 root -INFO - UI Loaded
+[2024-11-04 21:42:49,462] 23 root -INFO - Submit Button clicked
+[2024-11-04 21:42:50,422] 19 root -INFO - Gemini Model Initialized Successfully
+[2024-11-04 21:42:50,422] 32 root -INFO - QueryPipline Created Starting Prediction using Gemini API
+[2024-11-04 21:42:55,535] 34 root -INFO - Prediction using Gemini API completed outputing response
+[2024-11-04 21:42:55,535] 26 root -INFO - Loading Confirmation Box

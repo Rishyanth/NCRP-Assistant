@@ -1,2 +1,24 @@
-# NCRP Assistant
- Our ML application uses NLP models (LSTM, BERT, Multilabel BERT) to classify cyber complaints into precise categories, ensuring efficient handling. Integrated with Gemini API, it suggests ways to improve complaint quality by enhancing descriptions or adding media. This tool empowers citizens to submit accurate, actionable cyber reports.
+# Steps to Follow
+
+# Create a new enviornment
+bash
+`
+conda create -n venv python==3.9.4
+`
+       
+# Activate the virtual enviornment
+bash
+`
+conda activate venv
+`
+# Install requirements
+bash
+`
+pip install -r requirements.txt
+`
+
+# Run Streamlit application
+bash
+`
+streamlit run app.py
+`

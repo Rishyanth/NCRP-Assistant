@@ -1,0 +1,3 @@
+[2024-11-04 21:32:48,414] 19 root -INFO - Gemini Model Initialized Successfully
+[2024-11-04 21:32:48,414] 32 root -INFO - QueryPipline Created Starting Prediction using Gemini API
+[2024-11-04 21:32:53,628] 34 root -INFO - Prediction using Gemini API completed outputing response
