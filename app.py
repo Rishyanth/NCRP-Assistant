@@ -32,11 +32,11 @@ if submit:
     log.info("Submit Button clicked")
     log.info("Loading Confirmation Box")
     st.text("Loading AI suggestions")
-    mdl=Suggestions_model()                                  
-    answer=mdl.get_suggestions(complaint)
-    time.sleep(10)
+
 
 if st.session_state.confirm_submission:
+    mdl=Suggestions_model()                                  
+    answer=mdl.get_suggestions(complaint)
     st.write(answer)
     st.warning("Do you want to continue submitting the compalint or Reenter the complaint !")   
     col1, col2 = st.columns(2)
@@ -59,10 +59,7 @@ if st.session_state.confirm_submission:
             bert=BertClassifierMultiLabel()
             preds=bert.predict(complaint)
             print(preds)
-            for category, subcategory in preds:
-                st.write(f"- **Category:** {category}")
-                st.write(f"  - **Subcategory:** {subcategory}")
-            #st.success(preds)
+            st.success(preds)
         if radio_btn=="Bert":
             bert=BertClassifier()
             preds=bert.predict(complaint)
