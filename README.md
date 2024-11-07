@@ -52,6 +52,23 @@
    ```
    If the application fails due to authentication issues, revisit **Step 5** for setting up the service account key.
 
+   Understood. Here is a brief user flow with the provided information:
+
+# NCRP Assistant User Flow
+
+The NCRP Assistant provides a seamless experience for users to submit and manage their complaints. The key steps in the user flow are:
+
+1. **Complaint Submission**: Users can easily submit their complaints through the NCRP Assistant application. 
+
+2. **Categorization and Suggestions (Version 2)**: As the user is typing their complaint, the NCRP Assistant's powerful AI models analyze the input and provide real-time categorization as well as smart suggestions to help the user improve the quality and clarity of their complaint.
+
+3. **Personalized Recommendations**: The NCRP Assistant leverages the user's previous complaint history and the organization's knowledge base to suggest relevant information, resources, or actions that can help resolve the issue more effectively.
+
+4. **Efficient Complaint Management**: The NCRP Assistant's advanced categorization and suggestion capabilities enable organizations to quickly understand the nature of the complaint and provide a more tailored response, leading to better outcomes for all stakeholders.
+
+Refer to the diagram below for a visual representation of the NCRP Assistant user flow:
+
+![User Flow of NCRP Assistant](https://github.com/user-attachments/assets/e80b9dbd-4fcd-4b86-8f35-e9e075c31710)
    
 Refer to the video below for a guide on running the NCRP Assistant Streamlit App.
 
